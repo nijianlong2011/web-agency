@@ -1,0 +1,14 @@
+{
+  "name": "web-agency",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --watch . index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "nodemon": "^1.13.3",
+    "supervisor": "^0.12.0"
+  }
+}

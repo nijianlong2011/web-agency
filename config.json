@@ -1,0 +1,15 @@
+{
+    "get": {
+        "/hardware/api/getRef/:id": "getRef"
+    },
+    "post": {
+        "/test/test/": "post-test",
+        "/ref/api/saveRef": "saveRef"
+    },
+    "put": {
+        "/test/test/": "put-test"
+    },
+    "delete": {
+        "/test/test/": "delete-test"
+    }
+}

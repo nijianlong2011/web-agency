@@ -1,0 +1,97 @@
+{
+    "refId": "20J1000271",
+    "ierpPrice": 8750,
+    "priceUnit": "EUR",
+    "productName": "ThinkStation P920",
+    "expectedPrice": 8760,
+    "charValues": [
+        {
+            "charNameDesc": "Shipping Country",
+            "charValueDesc": "Germany"
+        },
+        {
+            "charNameDesc": "Preload OS",
+            "charValueDesc": "3 Year On-site Intl. Delivery"
+        },
+        {
+            "charNameDesc": "Platform",
+            "charValueDesc": "Standard Image"
+        },
+        {
+            "charNameDesc": "Shipping Country",
+            "charValueDesc": "Germany"
+        },
+        {
+            "charNameDesc": "Preload OS",
+            "charValueDesc": "3 Year On-site Intl. Delivery"
+        },
+        {
+            "charNameDesc": "Platform",
+            "charValueDesc": "Standard Image"
+        },
+        {
+            "charNameDesc": "Platform",
+            "charValueDesc": "Standard Image"
+        },
+        {
+            "charNameDesc": "Shipping Country",
+            "charValueDesc": "Germany"
+        },
+        {
+            "charNameDesc": "Preload OS",
+            "charValueDesc": "3 Year On-site Intl. Delivery"
+        },
+        {
+            "charNameDesc": "Platform",
+            "charValueDesc": "Standard Image"
+        },
+        {
+            "charNameDesc": "Platform",
+            "charValueDesc": "Standard Image"
+        },
+        {
+            "charNameDesc": "Shipping Country",
+            "charValueDesc": "Germany"
+        },
+        {
+            "charNameDesc": "Preload OS",
+            "charValueDesc": "3 Year On-site Intl. Delivery"
+        },
+        {
+            "charNameDesc": "Platform",
+            "charValueDesc": "Standard Image"
+        },
+        {
+            "charNameDesc": "Platform",
+            "charValueDesc": "Standard Image"
+        },
+        {
+            "charNameDesc": "Shipping Country",
+            "charValueDesc": "Germany"
+        },
+        {
+            "charNameDesc": "Preload OS",
+            "charValueDesc": "3 Year On-site Intl. Delivery"
+        },
+        {
+            "charNameDesc": "Platform",
+            "charValueDesc": "Standard Image"
+        },
+        {
+            "charNameDesc": "Platform",
+            "charValueDesc": "Standard Image"
+        },
+        {
+            "charNameDesc": "Shipping Country",
+            "charValueDesc": "Germany"
+        },
+        {
+            "charNameDesc": "Preload OS",
+            "charValueDesc": "3 Year On-site Intl. Delivery"
+        },
+        {
+            "charNameDesc": "Platform",
+            "charValueDesc": "Standard Image"
+        }
+    ]
+}
